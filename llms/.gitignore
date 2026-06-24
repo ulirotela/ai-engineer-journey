@@ -1,2 +1,7 @@
 llms/fine_tuned_model/
 llms/test_trainer/
+**/*.safetensors
+**/*.pt
+**/fine_tuned_model/
+**/test_trainer/
+**/my_saved_models/
