@@ -2,3 +2,8 @@
 config.py
 .env
 config.py
+**/*.safetensors
+**/*.pt
+**/fine_tuned_model/
+**/test_trainer/
+**/my_saved_models/
